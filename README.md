@@ -2,9 +2,12 @@ This is an Android project to compare performance of some JSON parser implementa
 
 Right now it includes:
 
-* Android built-in: [link](http://developer.android.com/reference/org/json/package-summary.html)
-* JSON.simple: [link](http://code.google.com/p/json-simple/)
-* JSON.smart: [link](http://code.google.com/p/json-smart/)
-* Jackson: [link](http://jackson.codehaus.org/)
-* JacksonObjectMapper: [link](http://jackson.codehaus.org/)
-* Gson: [link](http://code.google.com/p/google-gson/)
+* Android built-in
+* JSON.simple
+* JSON.smart
+* Jackson
+* JacksonObjectMapper
+* Gson
+
+
+![screenshot](https://raw.githubusercontent.com/myozka/AndroidJSONParserBenchmark/master/device-2016-08-05-001147.png)
